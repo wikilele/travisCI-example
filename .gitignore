@@ -1,1 +1,6 @@
 __pycache__
+
+# code coverage
+.cover
+.coverage
+.coveralls.yml

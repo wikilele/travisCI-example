@@ -8,7 +8,7 @@ before_install:
   - pip install -U coveralls
 install:
   
-script: pytest tests/
+script: pytest --cov=. tests/
 after_success:
   - coveralls
   

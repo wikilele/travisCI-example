@@ -1,6 +1,3 @@
 [run]
-source = .
-         Calculator/*
-
 omit =  ./tests/*
         ./main.py
