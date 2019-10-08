@@ -1,5 +1,5 @@
 import unittest
-from calculator import *
+from Calculator.calculator import *
 
 def test_add():
     result = add(13,26)
